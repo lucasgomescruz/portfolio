@@ -16,6 +16,8 @@ export function Navigation() {
     { label: 'início', id: 'hero' },
     { label: 'experiência', id: 'experience' },
     { label: 'skills', id: 'skills' },
+    { label: 'formação', id: 'education' },
+    { label: 'contato', id: 'contact' },
   ];
 
   return (
