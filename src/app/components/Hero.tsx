@@ -171,7 +171,7 @@ export function Hero() {
           <div className="shrink-0 reveal">
             <div
               className="relative flex items-center justify-center"
-              style={{ width: 'clamp(140px, 22vw, 220px)', height: 'clamp(140px, 22vw, 220px)' }}
+              style={{ width: 'clamp(200px, 28vw, 320px)', height: 'clamp(200px, 28vw, 320px)' }}
             >
               <div
                 style={{
