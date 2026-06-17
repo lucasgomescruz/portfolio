@@ -14,6 +14,7 @@ export function Navigation() {
 
   const navLinks = [
     { label: 'início', id: 'hero' },
+    { label: 'sobre', id: 'about' },
     { label: 'experiência', id: 'experience' },
     { label: 'skills', id: 'skills' },
     { label: 'formação', id: 'education' },
